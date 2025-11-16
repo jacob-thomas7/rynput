@@ -6,6 +6,9 @@ Rynput is focused on validating strings and converting them to a specific type, 
 It is particularily effective when configuring a large list of properties which may have
 very different requirements for their values.
 
+## Installation
+Clone this repository locally. Then run `pip install .` in the root directory of the repository.
+
 ## Usage
 It is recommended to use the following import statement:
 ```python
