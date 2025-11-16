@@ -1,0 +1,6 @@
+{
+    "RegEx" : "abc123 a1 b2 c3",
+    "Bool" : false,
+    "Float" : 2.718,
+    "Integer" : 5
+}
