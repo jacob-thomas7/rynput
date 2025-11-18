@@ -1,6 +1,6 @@
 [project]
 name = "rynput"
-version = "1.0.2"
+version = "1.0.3"
 authors = [
   { name="Jacob Thomas", email="jacob.thomas7852@gmail.com" },
 ]
