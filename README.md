@@ -7,7 +7,7 @@ It is particularily effective when configuring a large list of properties which 
 very different requirements for their values.
 
 ## Installation
-Clone this repository locally. Then run `pip install .` in the root directory of the repository.
+Run `pip install rynput`.
 
 ## Usage
 It is recommended to use the following import statement:
